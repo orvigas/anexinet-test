@@ -1,5 +1,3 @@
-# anexinet-test
-
 	1. Write a function that adds two numbers without using any arithmetic operators.
 		final double a = 3.000000;
 		final double b = 7.000000;
@@ -45,3 +43,9 @@
 			OP: permutateString:
 			AB
 			BA
+
+
+	7. Write a function that receives a sentence, and return the longest word, if two or more words has the same lenght, they are returned as an array, but can't return duplicated words.
+	   final String sentence = "Java is a cross-platform object-oriented programming language that was released by Sun Microsystems in the year 1995. Today, Java is needed to run various applications such as games, social media applications, audio and video applications, etc.";
+			OP: longestWords: [Microsystems, applications]
+			
